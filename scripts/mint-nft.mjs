@@ -1,4 +1,4 @@
-const CONTRACT_ADDRESS = "0x964d0bBE7299eb390bEFC7E6d84fE14CD01DccBA"
+const CONTRACT_ADDRESS = "0x100837D3bD1Eff82D4c07bAA90a7067DbC1b4eB8"
 const META_DATA_URL = "ipfs://bafyreiesbkaa4bphh3pb2qemhlupb7si457gjz4octoubqulnvejdugq34"
 
 async function mintNFT(contractAddress, metaDataURL) {
